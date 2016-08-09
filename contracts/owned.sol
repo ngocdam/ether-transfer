@@ -1,4 +1,4 @@
-contract Owned(){
+contract Owned{
 
     //Address of owner
     address Owner;
