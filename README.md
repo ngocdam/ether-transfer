@@ -8,7 +8,7 @@ Watch our contract to deal with it:
 
 ### Ether Transfer On ETH
 
- * Address: `0xa14d964fb52bf333888d162e9caf8cc7f090cde4`
+ * Address: [0xa14d964fb52bf333888d162e9caf8cc7f090cde4](https://etherscan.io/address/0xa14d964fb52bf333888d162e9caf8cc7f090cde4)
 
 ### Ether Transfer On ETC
 
@@ -27,13 +27,13 @@ Watch our contract to deal with it:
 
 <img src="https://etcrelay.github.io/images/contents/send-eth.png">
 
-*SendETH is available but your cannot use.*
+*SendETC is available but your cannot use it.*
 
 ## Send ETC
 
 <img src="https://etcrelay.github.io/images/contents/send-etc.png">
 
-*SendETC is available but your cannot use.*
+*SendETH is available but your cannot use it.*
 
 ## Example
 
@@ -43,4 +43,4 @@ https://etherscan.io/tx/0x48a1ddb0e9d7de62ab82dda447deaa48c9d5da08118774fec32897
 
 ## Donate
 
-I'd like it (ETC and ETH is accepted) : *0xf79B6AF78E962eFFBb3fCC197911f1e0DC6A91B8*
+I'd like it (ETC and ETH are accepted) : *0xf79B6AF78E962eFFBb3fCC197911f1e0DC6A91B8*
